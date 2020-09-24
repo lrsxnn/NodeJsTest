@@ -1,0 +1,12 @@
+{
+    "name": "JSServer",
+    "version": "1.0.0",
+    "dependencies": {
+        "google-protobuf": "^3.13.0",
+        "node-kcp": "^1.0.11"
+    },
+    "devDependencies": {
+        "eslint": "^7.9.0",
+        "eslint-config-google": "^0.14.0"
+    }
+}
